@@ -6,9 +6,9 @@ const SyncWithGithub = () => {
           Sync with GitHub. Both&nbsp;ways.
         </h2>
         <p className="mt-4 max-w-[580px] leading-snug tracking-tight text-gray-400">
-          Manage your tasks efficiently with Huly's bidirectional GitHub
+         {` Manage your tasks efficiently with Huly's bidirectional GitHub
           synchronization. Use&nbsp;Huly as an advanced front-end for GitHub
-          Issues and GitHub Projects.
+          Issues and GitHub Projects.`}
         </p>
         <div className="relative my-20 border-[8px] rounded-lg border-gray-700">
           <div className="rounded-md overflow-hidden">

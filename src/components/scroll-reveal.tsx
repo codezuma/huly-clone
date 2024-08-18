@@ -66,9 +66,9 @@ function SplitLayoutComponent() {
             Your Fingertips
           </h2>
           <p className="mt-10 text-[22px] ">
-            Huly offers a wide range of features to create and manage your
+          {`  Huly offers a wide range of features to create and manage your
             project documentation. Huly's suite of collaborative editing tools
-            boosts team efficiency.
+            boosts team efficiency.`}
           </p>
           <div className="relative text-[22px] mt-[26px] ">
             <div className="relative">
@@ -215,10 +215,10 @@ function SplitLayoutComponent() {
             src="code.svg"
           />
           <p className="mt-9 text-[22px]">
-            Documents can be enhanced with rich text formatting, images,
+           {` Documents can be enhanced with rich text formatting, images,
             attachments and code blocks. Use documents to organize team plans,
             create technical documentation and support your team's progress
-            towards shared goals.
+            towards shared goals.`}
           </p>
           <div className="mt-5 flex text-2xl  items-start">
             <svg
@@ -236,7 +236,7 @@ function SplitLayoutComponent() {
             </svg>
             <span className=" text-[#b0b2b7]">Tap here to continue...</span>
           </div>
-            <div className="mt-2 flex w-fit gap-x-1 rounded-full bg-gray-100 p-2  shadow-md">
+            <div className="mt-2 flex w-fit gap-x-1 rounded-full bg-gray-100 p-2 j shadow-md">
               <div className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-800 ">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
